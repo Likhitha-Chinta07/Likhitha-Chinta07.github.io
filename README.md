@@ -6,7 +6,7 @@ Personal portfolio for **Lakshmi Likhitha Chinta**, a Data Science & AI Professi
 - Data Analytics & Visualization
 - Machine Learning & Predictive Modelling
 - Deep Learning & Computer Vision
-- AI / Generative AI — currently learning and building
+- AI / Generative AI currently learning and building
 - Research & applied experimentation
 
 ## Featured work
